@@ -1,9 +1,9 @@
 ## Salut 👋
 
-❓𝑸𝒖𝒊 𝒔𝒖𝒊𝒔-𝒋𝒆 ❓
+❓𝑸𝒖𝒊 𝒔𝒖𝒊𝒔-𝒋𝒆 ❓<br>
 Je m'appelle Fawzi, j'ai 23 ans et je suis bientôt diplômé d'un Master 2 en Gestion de Projet Informatique (MIAGE). Passionné par la cybersécurité et la sécurité des infrastructures réseau et serveur, je consacre régulièrement du temps à m'entraîner dans ce domaine sur mon site préféré, 𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞.
 
-​👀𝑺𝒕𝒂𝒕𝒖𝒕 𝒂𝒄𝒕𝒖𝒆𝒍 ​👀​
+​👀𝑺𝒕𝒂𝒕𝒖𝒕 𝒂𝒄𝒕𝒖𝒆𝒍 ​👀​<br>
 Je travaille à la création d'une infrastructure avec différents serveurs (Active Directory, DHCP, DNS, serveur de fichiers, serveur d'impression).
 
 👨‍🎓𝑴𝒐𝒏 𝒑𝒂𝒓𝒄𝒐𝒖𝒓𝒔 𝒔𝒄𝒐𝒍𝒂𝒊𝒓𝒆 👨‍🎓 <br>
