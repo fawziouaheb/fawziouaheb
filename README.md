@@ -25,7 +25,7 @@ Au cours de mes cinq années d'études à l'UPJV, j'ai travaillé sur divers pro
        renforçant ainsi mes compétences techniques dans les différents domaines et managériales.
 <br>
 ✅𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐬✅<br>
-    * Attestation De Suivi SecNum académie | ## ANSSI.<br>
+    * Attestation De Suivi SecNum académie | ## ANSSI. ##<br>
     * Equipement réseau et Configuration de base | ## CISCO.<br>
     * Architecte de sécurité API | ## Certification API Academy.<br>
     * Faire preuve de prudence : gestion des risques de sécurité |##  GOOGLE.<br>
