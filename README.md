@@ -1,11 +1,9 @@
-## Hi there 👋
+## Salut 👋
 
+❓𝑸𝒖𝒊 𝒔𝒖𝒊𝒔-𝒋𝒆 ❓
+Je m'appelle Fawzi, j'ai 23 ans et je suis bientôt diplômé d'un Master 2 en Gestion de Projet Informatique (MIAGE). Passionné par la cybersécurité et la sécurité des infrastructures réseau et serveur, je consacre régulièrement du temps à m'entraîner dans ce domaine sur mon site préféré, 𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞.
 
-**fawziouaheb/fawziouaheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 𝑺𝒕𝒂𝒕𝒖𝒕 𝒂𝒄𝒕𝒖𝒆𝒍 ​👀​
+​👀𝑺𝒕𝒂𝒕𝒖𝒕 𝒂𝒄𝒕𝒖𝒆𝒍 ​👀​
 Je travaille à la création d'une infrastructure avec différents serveurs (Active Directory, DHCP, DNS, serveur de fichiers, serveur d'impression).
 
 👨‍🎓𝑴𝒐𝒏 𝒑𝒂𝒓𝒄𝒐𝒖𝒓𝒔 𝒔𝒄𝒐𝒍𝒂𝒊𝒓𝒆 👨‍🎓 
@@ -25,5 +23,11 @@ Au cours de mes cinq années d'études à l'UPJV, j'ai travaillé sur divers pro
 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐧𝐜𝐞 𝐜𝐡𝐞𝐳 𝐓𝐞𝐫𝐞𝐨𝐬 (𝟐 𝐚𝐧𝐬) :
      * Actuellement en alternance, impliqué dans divers projets de développement et de l'IoT, 
        renforçant ainsi mes compétences techniques dans les différents domaines et managériales.
+
+✅𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐬✅
+    * Attestation De Suivi SecNum académie. | ANSSI
+    * Equipement réseau et Configuration de base | CISCO
+    * Architecte de sécurité API | Certification API Academy
+    * Faire preuve de prudence : gestion des risques de sécurité | GOOGLE
 
 
