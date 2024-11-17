@@ -23,7 +23,7 @@ Au cours de mes cinq années d'études à l'UPJV, j'ai travaillé sur divers pro
 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐧𝐜𝐞 𝐜𝐡𝐞𝐳 𝐓𝐞𝐫𝐞𝐨𝐬 (𝟐 𝐚𝐧𝐬) :
      * Actuellement en alternance, impliqué dans divers projets de développement et de l'IoT, 
        renforçant ainsi mes compétences techniques dans les différents domaines et managériales.
-
+<br>
 ✅𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐬✅
     * Attestation De Suivi SecNum académie. | ANSSI
     * Equipement réseau et Configuration de base | CISCO
