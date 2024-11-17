@@ -19,7 +19,6 @@ Après avoir obtenu mon baccalauréat en série mathématique, j'ai poursuivi de
         utilisateur.
      * Développement et maintenance d'un site avec le framework Symfony.
      * Mise en place de mesures de sécurité pour protéger les données du site.
-
     𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐧𝐜𝐞 𝐜𝐡𝐞𝐳 𝐓𝐞𝐫𝐞𝐨𝐬 (𝟐 𝐚𝐧𝐬) :<br>
      * Actuellement en alternance, impliqué dans divers projets de développement et de l'IoT, 
        renforçant ainsi mes compétences techniques dans les différents domaines et managériales.
