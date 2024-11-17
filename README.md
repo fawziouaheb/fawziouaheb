@@ -30,7 +30,7 @@ Après avoir obtenu mon baccalauréat en série mathématique, j'ai poursuivi de
     * Faire preuve de prudence : gestion des risques de sécurité | 𝐆𝐎𝐎𝐆𝐋𝐄.<br>
     
 𝗣𝗼𝘂𝗿 𝗺𝗲 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗲𝗿 :
-📧 : 𝒇𝒂𝒘𝒛𝒊𝒐𝒖𝒂𝒉𝒆𝒃@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎
+📧 : 𝒇𝒂𝒘𝒛𝒊𝒐𝒖𝒂𝒉𝒆𝒃@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎<br>
 📞 : 𝟎𝟔 𝟎𝟑 𝟓𝟐 𝟒𝟑 𝟓𝟏.
 
 
